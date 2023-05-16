@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python%20Version-3.9-green"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Membres-Elouan%20Bruzek%20%26%20Gautier%20Voiret-brightgreen"/></a>
 </p>
 
 ## Configuration : 
